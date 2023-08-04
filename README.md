@@ -1,5 +1,5 @@
 # Financial Data Exchange Center #
-
+This is still an on-going project
 
 
 ## Overview ##
