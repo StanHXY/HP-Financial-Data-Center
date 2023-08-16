@@ -1,4 +1,4 @@
-# Financial Data Exchange Center #
+#High Performance Financial Data Center #
 This is still an on-going project
 
 
